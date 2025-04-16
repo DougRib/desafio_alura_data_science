@@ -45,4 +45,4 @@ Após a análise integrada dos indicadores (faturamento, mix de produtos, avalia
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/nome-do-repositorio.git
+   git clone https://github.com/DougRib/desafio_alura_data_science
